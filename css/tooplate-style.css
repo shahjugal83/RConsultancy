@@ -342,19 +342,18 @@
     margin-bottom: 40px;
     overflow-wrap: break-word;
   }
-.home-info h3 p{
-  color: #ffffff;
-  font-size: 14px;
-  font-weight: bold;
-  letter-spacing: 4px;
-  /*    text-transform: capitalize;*/
-  margin-top: 10px;
-  margin-left: 0px;
-  margin-bottom: 40px;
-  overflow-wrap: break-word;
-  position: relative;
-}
-  
+
+  .text-info p{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    overflow-wrap: break-word;
+  }
+
 
 
   /*---------------------------------------
